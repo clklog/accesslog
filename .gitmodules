@@ -1,0 +1,12 @@
+[submodule "api"]
+	path = api
+	url = ../accesslog-api.git
+[submodule "processing"]
+	path = processing
+	url = ../accesslog-processing.git
+[submodule "processing-simple"]
+	path = processing-simple
+	url = ../accesslog-processing-simple.git
+[submodule "ui"]
+	path = ui
+	url = ../accesslog-ui.git
