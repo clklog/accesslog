@@ -10,3 +10,6 @@
 [submodule "ui"]
 	path = ui
 	url = ../accesslog-ui.git
+[submodule "accesslog-scripts"]
+	path = accesslog-scripts
+	url = ../accesslog-scripts.git
